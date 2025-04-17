@@ -52,7 +52,7 @@ Discover **EcoBin** in action! Watch our presentation: **[EcoBin Presentation](h
 
 ```bash
 git clone https://github.com/saranshjagwani/codeforchange
-cd EcoBin
+cd codeforchange
 
 npm install 
 npm run dev
